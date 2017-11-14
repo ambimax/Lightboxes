@@ -1,0 +1,10 @@
+
+src/app/code/local/MagentoPycho/Lightboxes                               app/code/local/MagentoPycho/Lightboxes
+src/app/design/frontend/default/default/layout/lightboxes.xml            app/design/frontend/default/default/layout/lightboxes.xml
+src/app/design/frontend/default/default/template/lightboxes              app/design/frontend/default/default/template/lightboxes
+src/app/etc/modules/MagentoPycho_Lightboxes.xml                          app/etc/modules/MagentoPycho_Lightboxes.xml
+src/js/lightboxes/fancybox                                               js/lightboxes/fancybox
+src/js/lightboxes/jQuery                                                 js/lightboxes/jQuery
+src/js/lightboxes/jquery-lightbox-0.5                                    js/lightboxes/jquery-lightbox-0.5
+src/js/lightboxes/no-conflict.js                                         js/lightboxes/no-conflict.js
+src/js/lightboxes/pirobox                                                js/lightboxes/pirobox

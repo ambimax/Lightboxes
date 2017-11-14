@@ -1,5 +1,5 @@
 {
-  "name": "ambimax/pn_sofortueberweisung",
+  "name": "ambimax/magepsycho-lightboxes",
   "type": "magento-module",
   "require": {
     "magento-hackathon/magento-composer-installer": "*"
